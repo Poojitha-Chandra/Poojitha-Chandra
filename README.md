@@ -1,6 +1,6 @@
 <samp>
   
-# Hello there :wave:
+# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
   <samp>
