@@ -7,6 +7,8 @@
 
 ## About me
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
+🔭 Aspiring Full Stack Developer
+
 
 ![Poojitha's github stats](https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=radical)
 
