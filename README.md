@@ -9,8 +9,6 @@
 ## About me
 
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
-
-<samp>
   
 🔭 Aspiring Data Scientist
 
@@ -19,7 +17,6 @@
 💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
 
 😄 Pronouns: she/her
-</samp>
 
 ## Skills
 
