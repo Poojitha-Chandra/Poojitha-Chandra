@@ -7,7 +7,13 @@
 
 ## About me
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
-🔭 Aspiring Full Stack Developer
+🔭 Aspiring Data Scientist
+
+🌱 I'm currently learning Neural networks
+
+💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
+
+😄 Pronouns: she/her
 
 
 ![Poojitha's github stats](https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=radical)
