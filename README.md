@@ -1,10 +1,9 @@
 ## Hello there :wave:
 
 <p align="center">
-  
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVR :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVR </a> 
   </samp>
 </p>
 
