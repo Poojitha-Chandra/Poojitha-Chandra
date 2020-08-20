@@ -22,7 +22,7 @@
 
 ***Hardware Description Languages***:Verilog HDL
 
-***Simulation Softwares***&nbsp&nbsp:SciLAB,PSPICE
+***Simulation Softwares***&nbsp;&nbsp;:SciLAB,PSPICE
 
 ***Programming Languages***         :NI LabVIEW,C Language,Python:snake:
 
