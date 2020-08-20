@@ -33,7 +33,9 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/poojithachandra/">LinkedIn</a> 💼
 
-- Knowing updates on <a href="https://twitter.com/teddychowdary">Twitter</a> 
+- Knowing updates on <a href="https://twitter.com/teddychowdary">Twitter</a> :globe_with_meridians:
+
+- Practising coding at <a href="https://www.hackerrank.com/poojitha_chandra">HackerRank</a> :point_left:
 </samp>
 
 
