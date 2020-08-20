@@ -1,7 +1,5 @@
 ## Hello there :wave:
-
 <p align="center">
-  <br><br>
   <samp>
     I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVR </a> 
   </samp>
