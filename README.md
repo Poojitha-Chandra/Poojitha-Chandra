@@ -1,4 +1,5 @@
 # Hello there :wave:
+
 <p align="center">
   <samp>
     I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVR</a>.But in contrast:grin:,I love to code:computer:. 
@@ -6,6 +7,7 @@
 </p>
 
 ## About me
+
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
 <samp>
   
@@ -27,7 +29,9 @@
 ***Programming Languages***         :NI LabVIEW,C Language,Python:snake:
 
 
-## Find me:octocat: around the web
+## Find me around the web
+
+- Sharing updates on <a href="https://www.linkedin.com/in/poojithachandra/">LinkedIn</a> 💼
 
 
 
