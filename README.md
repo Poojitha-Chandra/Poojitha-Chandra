@@ -36,6 +36,8 @@
 - Knowing updates on <a href="https://twitter.com/teddychowdary">Twitter</a> :globe_with_meridians:
 
 - Practising coding at <a href="https://www.hackerrank.com/poojitha_chandra">HackerRank</a> :point_left:
+
+- Listening to all my favourite tracks at <a href="https://open.spotify.com/user/wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A">Spotify</a>
 </samp>
 
 
