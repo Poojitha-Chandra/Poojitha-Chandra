@@ -1,3 +1,4 @@
+<samp>
 # Hello there :wave:
 
 <p align="center">
@@ -30,6 +31,7 @@
 ## Find me around the web
 
 - Sharing updates on <a href="https://www.linkedin.com/in/poojithachandra/">LinkedIn</a> 💼
+</samp>
 
 
 
