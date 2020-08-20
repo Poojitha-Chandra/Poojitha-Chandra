@@ -7,6 +7,7 @@
 
 ## About me
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
+
 🔭 Aspiring Data Scientist
 
 🌱 I'm currently learning Neural networks
