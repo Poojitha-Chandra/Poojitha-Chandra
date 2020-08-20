@@ -49,5 +49,3 @@
 <a href="https://github.com/Poojitha-Chandra">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=dark&line_height=27" alt="Poojitha's github stats"/>
 </a>
-
-<img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[Poojitha Manam]" />
