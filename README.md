@@ -18,14 +18,14 @@
 😄 Pronouns: she/her
 </samp>
 
+## Skills
+
+***Hardware Description Languages***:Verilog HDL
+
+
 ## Find me
 
-<ul class="social-links">
-                        <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                        <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-                        <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
-                        <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-                    </ul>
+
 
 ![Poojitha's github stats](https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=radical)
 
