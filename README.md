@@ -18,7 +18,7 @@
 
 💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
 
-😄 Pronouns: she/her
+😄 Adjectives: garrulous|heuristic|equanimous
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
