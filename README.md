@@ -20,7 +20,7 @@
 
 😄 Pronouns: she/her
 
-## Skills
+## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
 ***Hardware Description Languages***:Verilog HDL
 
