@@ -1,6 +1,6 @@
 <samp>
   
-# Hello there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# Hello there<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px">
 
 <p align="center">
   <samp>
