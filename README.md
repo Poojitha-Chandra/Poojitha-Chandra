@@ -42,7 +42,7 @@
 ## GitHub Stats&#x1f4c8; 
 </samp>
 <a href="https://github.com/Poojitha-Chandra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha-Chandra&theme=dark&hide_langs_below=1" height=27/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha-Chandra&theme=dark&hide_langs_below=1"/>
 </a>
 
 <a href="https://github.com/Poojitha-Chandra">
