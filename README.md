@@ -40,7 +40,9 @@
 - Listening to all my favourite jams on <a href="https://open.spotify.com/user/wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A">Spotify</a> 🎧
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Poojitha-Chandra Spotify Playing" width="350" />](https://open.spotify.com/user/wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A)
+<p align="center">
+<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A&cover_image=false" />
+</p>
 
 ## GitHub Stats&#x1f4c8; 
 </samp>
