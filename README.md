@@ -40,7 +40,7 @@
 - Listening to all my favourite jams on <a href="https://open.spotify.com/user/wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A">Spotify</a> 🎧
 
 ## GitHub Stats&#x1f4c8; 
-</samp>
+
 <a href="https://github.com/Poojitha-Chandra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha-Chandra&theme=dark&hide_langs_below=1"/>
 </a>
@@ -49,4 +49,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=dark&line_height=27" alt="Poojitha's github stats"/>
 </a>
 
+## GitHub Repo's :feet:
+</samp>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Poojitha-Chandra&repo=Building-a-Search-Engine&theme=dark)](https://github.com/Poojitha-Chandra/Building-a-Search-Engine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Poojitha-Chandra&repo=Geocoding-and-Visualization&theme=dark)](https://github.com/Poojitha-Chandra/Geocoding-and-Visualization)
