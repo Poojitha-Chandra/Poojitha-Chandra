@@ -40,9 +40,7 @@
 - Listening to all my favourite jams on <a href="https://open.spotify.com/user/wcjwiw0xz9vjus3hfevtienln?si=I5oziiMRTfqoSPxEH4bR6A">Spotify</a> 🎧
 </samp>
 
-
-
-
+## GitHub Stats&#x1f4c8; 
 
 <a href="https://github.com/Poojitha-Chandra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha-Chandra&theme=dark&hide_langs_below=1" />
