@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-## About me
+## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
   
