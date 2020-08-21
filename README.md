@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <img src="https://github.com/Poojitha-Chandra/Poojitha-Chandra/blob/master/octocat.png" align="left" width="150" height="150">
   
@@ -20,7 +20,7 @@
 
 😄 Pronouns: she/her
 
-## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
+## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
 ***Hardware Description Languages***:Verilog HDL
 
