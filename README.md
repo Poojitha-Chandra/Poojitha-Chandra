@@ -49,4 +49,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=dark&line_height=27" alt="Poojitha's github stats"/>
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Poojitha-Chandra&repo=Building-a-Search-Engine&theme=cobalt)](https://github.com/Poojitha-Chandra/Building-a-Search-Engine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Poojitha-Chandra&repo=Building-a-Search-Engine&theme=merko)](https://github.com/Poojitha-Chandra/Building-a-Search-Engine)
