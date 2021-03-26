@@ -14,7 +14,7 @@
   
 🔭 Aspiring Data Scientist
 
-🌱 I'm currently learning Neural networks
+🌱 I'm currently learning Angular
 
 💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
 
