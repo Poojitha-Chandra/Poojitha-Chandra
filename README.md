@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" align="left" width="150" height="150">
   
-🔭 Aspiring Data Scientist
+🔭 Programmer Analyst Trainee at <a href="https://www.cognizant.com/">Cognizant</a>
 
 🌱 I'm currently learning Angular
 
