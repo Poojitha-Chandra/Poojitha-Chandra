@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVRJC:boom:</a>.Besides having a passion:fire: towards my core subjects:grin:, I love to code:computer:. 
+    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVRJC:boom:</a>.Besides having a passion:fire: towards my core subjects:grin:, I love to code:computer: On the way to familiarise myself with front-end development. 
   </samp>
 </p>
 
