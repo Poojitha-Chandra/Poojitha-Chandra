@@ -46,6 +46,6 @@
 </a>
 
 <a href="https://github.com/Poojitha-Chandra">
- <img align="center" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra)](https://github.com/anuraghazra/github-readme-stats)" alt="Poojitha's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojitha-Chandra&show_icons=true&theme=dark&line_height=27" alt="Poojitha's github stats"/>
 </a>
 
