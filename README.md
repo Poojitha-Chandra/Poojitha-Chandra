@@ -14,7 +14,7 @@
   
 🔭 Programmer Analyst Trainee at <a href="https://www.cognizant.com/">Cognizant</a>
 
-🌱 I'm currently learning Angular
+🌱 I'm currently learning ReactJS
 
 💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
 
