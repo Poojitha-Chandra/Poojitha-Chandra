@@ -1,6 +1,6 @@
 <samp>
   
-# Hello there<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="2px">
+# Hello there
 
 <p align="center">
   <samp>
