@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a final Year ECE student at <a href="http://www.rvrjcce.ac.in/">RVRJC:boom:</a>.Besides having a passion:fire: towards my core subjects:grin:, I love to code:computer: On the way to familiarise myself with front-end development. 
+    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a Test Engineer at <a href="https://www.cognizant.com/in/en">Cognizant:boom:</a>.
   </samp>
 </p>
 
@@ -12,24 +12,16 @@
 
 <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" align="left" width="150" height="150">
   
-🔭 Programmer Analyst Trainee at <a href="https://www.cognizant.com/">Cognizant</a>
+🔭 Programmer Analyst at <a href="https://www.cognizant.com/">Cognizant</a>
 
-🌱 I'm currently learning ReactJS
+🌱 I'm currently learning about the Google Cloud Infrastructure
 
-💬 Ask me about: Analog and Digital Communications,Electrical Circuit Analysis,C Programming
+💬 Ask me about: Cypress, BrowserStack, Percy, Git, Adobe Experience Manager
 
 😄 Adjectives: garrulous|heuristic|equanimous
 
-## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
-***Hardware Description Languages***:Verilog HDL
-
-***Simulation Softwares***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:SciLAB,PSPICE
-
-***Programming Languages***👩🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:NI LabVIEW,C Language,Python:snake:
-
-
-## Find me around the web
+## Find me around the web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
 - Sharing updates on <a href="https://www.linkedin.com/in/poojithachandra/">LinkedIn</a> 💼
 
