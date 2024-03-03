@@ -1,10 +1,9 @@
 <samp>
-  
-# Hello there
+
 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently a Test Engineer at <a href="https://www.cognizant.com/in/en">Cognizant:boom:</a>.
+    Hello there, I'm <a href="https://www.linkedin.com/in/poojithachandra/">Poojitha</a> currently working as a Quality Engineer at <a href="https://www.cognizant.com/in/en">Cognizant</a> :boom:
   </samp>
 </p>
 
@@ -14,7 +13,7 @@
   
 🔭 Programmer Analyst at <a href="https://www.cognizant.com/">Cognizant</a>
 
-🌱 I'm currently learning about the Google Cloud Infrastructure
+🌱 I'm currently learning about performance testing
 
 💬 Ask me about: Cypress, BrowserStack, Percy, Git, Adobe Experience Manager
 
